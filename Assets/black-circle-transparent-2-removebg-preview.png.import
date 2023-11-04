@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/black-circle-transparent-2-removebg-preview.png-fe1f52285956668c620636b823263f5b.stex"
+path="res://.import/black-circle-transparent-2-removebg-preview.png-c544ae11b08f04c8446d6d3f23d0b68a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://black-circle-transparent-2-removebg-preview.png"
-dest_files=[ "res://.import/black-circle-transparent-2-removebg-preview.png-fe1f52285956668c620636b823263f5b.stex" ]
+source_file="res://Assets/black-circle-transparent-2-removebg-preview.png"
+dest_files=[ "res://.import/black-circle-transparent-2-removebg-preview.png-c544ae11b08f04c8446d6d3f23d0b68a.stex" ]
 
 [params]
 
